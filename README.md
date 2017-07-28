@@ -17,6 +17,7 @@ At this point the user has 5 options:
 3.	Shortest Path
 4. 	Taxi Service
 5.	Exit
+
 Print Graph-This function simply prints the graph
 Edit Graph-This function opens another menu that has 3 options on editing the graph.
 Shortest Path-This function prompts the user to choose a path finding algorithm and to choose two points to run the algorithm on.
